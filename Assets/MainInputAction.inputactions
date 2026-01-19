@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "MainInputAction",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "8bfcabb6-8594-4523-938a-b0ec6ecc70de",
+            "actions": [
+                {
+                    "name": "Positive",
+                    "type": "Button",
+                    "id": "66c7b138-2b53-4c76-bb49-6634aa0fe104",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5546f82c-9a71-460b-9b33-4cce5e260298",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Positive",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
